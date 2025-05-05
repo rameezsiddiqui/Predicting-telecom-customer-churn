@@ -51,9 +51,3 @@ This project is ideal for showcasing machine learning skills in:
 - Model evaluation & interpretation
 
 ---
-
-### ✨ Author
-
-[Your Name Here]
-Data Scientist | AI/ML Engineer
-[LinkedIn/GitHub/Portfolio Link]
